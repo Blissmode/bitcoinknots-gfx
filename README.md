@@ -12,6 +12,6 @@ Glyph + glyph shadow over a gradient background. The shadow shape directory is f
 ![knots – gradient](https://github.com/user-attachments/assets/3945275f-d118-4f6f-bbf4-24982cd20d65)
 ## Banner
 Glyph + text. Looks nice as a header. Can be used with background or other icon.
-![knots – banner](https://github.com/user-attachments/assets/5fed4ac3-3fe5-4c19-aadc-0200ffe4e0b4)
+![knots – banner](https://github.com/user-attachments/assets/ee22ef2d-66e8-4be9-8bd7-d67159d4ca4f)
 Font family "Aileron" is provided free for personal and commercial use, and can be found here:
 https://www.1001fonts.com/aileron-font.html
